@@ -1,5 +1,3 @@
-# Simple weather chatbot to show how we can work with langchain 
-
 flowchart TD
   %% Backbone
   subgraph ResNet-18 Backbone
