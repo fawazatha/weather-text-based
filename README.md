@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   %% Backbone
   subgraph ResNet-18 Backbone
