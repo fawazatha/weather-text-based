@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph KANLinear_Unit
         X[Input x_i] --> ACT[SiLU Activation]
@@ -21,3 +22,5 @@ graph TD
     style SC fill:#ccf,stroke:#333,stroke-width:1px
     style ACT fill:#fef,stroke:#333,stroke-width:1px
     style Parameters stroke-dasharray: 5 5, fill: #fff
+
+```
