@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    subgraph KANLinear Unit (Mapping Input i to Output j)
+    subgraph KANLinear_Unit_(Mapping Input i to Output j)
         X(Input Feature x_i) --> ACT(Base Activation σ(x_i));
         ACT --> B(Linear Transform, W_base_ji);
         X --> BS(B-Spline Bases B(x_i, G_i));
